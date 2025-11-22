@@ -240,6 +240,3 @@ Once you're comfortable with this basic contract, consider exploring:
 - [Aptos Framework Source Code](https://github.com/aptos-labs/aptos-framework)
 - [Aptos Discord Community](https://discord.gg/aptosnetwork)
 
-## License
-
-This project is open source and available for educational purposes. Feel free to modify and build upon it for your own learning.
