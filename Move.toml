@@ -1,0 +1,17 @@
+[package]
+name = "hello-aptos"
+version = "1.0.0"
+authors = []
+
+[addresses]
+
+move_publisher= "_"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
